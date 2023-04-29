@@ -23,3 +23,12 @@ table, th, td {
   border: 3px solid #28a2cc;
   border-collapse: collapse;
 }
+
+#actividad{
+  padding-left: 50px;
+  padding-right: 50px;
+}
+
+#precios{
+  text-align: center;
+}
