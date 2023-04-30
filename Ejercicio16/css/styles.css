@@ -1,0 +1,26 @@
+table, td, th {
+    text-align: center;
+    padding: 2px;
+    border: 2px groove black;
+    border-spacing: 1px;
+    width: 800px;
+    color: #862017;
+}
+
+#titulo {
+    background-color: #669966;
+    padding-left: 50px;
+    padding-right: 50px;
+}
+
+tr{
+    background-color:rgb(255, 181, 131);
+}
+
+tr.amarillo{
+    background-color: rgb(255, 255, 148);
+}
+
+tr.image{
+    background-image: url(../img/pawbackground.png);
+}
