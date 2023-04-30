@@ -1,0 +1,40 @@
+p{
+    text-align: center;
+    font-weight: bold;
+}
+
+table{
+    width: 100%;
+}
+
+table, tr, td{
+    text-align: center;
+    border: 2px groove lightgray;
+    border-spacing: 0px;
+    border-collapse: separate;
+    font-weight: bold;
+}
+
+td{
+    padding: 3px;
+}
+
+#celda1{
+    background-color: #99fe99;
+}
+
+#celda2{
+    text-align: left;
+    background-color: aqua;
+}
+
+#celda6{
+    background-color: violet;
+    text-align: right;
+    vertical-align: bottom;
+}
+
+.celda-roja{
+    color: red;
+    border: red 2px groove;
+}
