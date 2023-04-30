@@ -1,0 +1,31 @@
+table,
+th, td {
+  text-align: center;
+  width: 100%;
+  border: 2px solid black;
+  border-spacing: 0px;
+}
+
+th {
+  background-color: white;
+}
+
+td {
+  background-color: #fdfd93;
+  width: auto;
+}
+
+#cont-imagen {
+  position: absolute;
+  left: 300px;
+  width: 300px;
+  padding: 10px;
+}
+
+#cont-tabla {
+  position: absolute;
+  left: 480px;
+  top: 400px;
+  width: 900px;
+  padding: 10px;
+}
