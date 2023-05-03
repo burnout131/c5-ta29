@@ -1,0 +1,155 @@
+div {
+    color: yellow;
+    line-height: 3;
+    text-shadow:
+    -1px -1px 0 #000,
+    1px -1px 0 #000,
+    -1px 1px 0 #000,
+    1px 1px 0 #000; 
+    text-align: center;
+    font-size: x-large;
+    font-weight: bold;
+}
+
+.square {
+    width: 18.7%;
+    height: 18.7%;
+    border: black 3px solid;
+    box-sizing: border-box;
+}
+
+#main-container {
+    width: 50%;
+    margin: auto;
+    height: 98vh;
+    background-image: url(../img/ac.jpg);
+    border: purple 3px solid;
+}
+
+#d0-1 {
+    background-image: url(../img/back_mantel.jpg);
+    float: left;
+    margin: 5%;
+    
+}
+
+#d0-2 {
+    float: left;
+    margin: 5%;
+    margin-left: 0%;
+}
+
+#d0-2bg{
+    background-image: url(../img/back_mantel.jpg);
+    line-height: 2;
+    width: 80%;
+    height: 80%;
+    margin: 10%;
+    background-position: center;
+}
+
+#d0-3 {
+    float: left;
+    background-image: url(../img/back_mantel.jpg);
+    background-size: 100%;
+    margin: 5%;
+    margin-left: 0%;
+}
+
+#d0-4 {
+    float: left;
+    background-color: white;
+    margin: 5%;
+    margin-left: 0%;
+}
+
+#d0-4bg {
+    background-image: url(../img/back_mantel.jpg);
+    line-height: 2;
+    margin: 10%;
+    width: 80%;
+    height: 80%;
+    background-position: center;
+}
+
+#d1-1 {
+    float: left;
+    background-image: url(../img/dh.jpg);
+    background-size: 100%;
+    margin: 5%;
+    margin-top: 0%;
+}
+
+#d1-2 {
+    float: left;
+    background-color: white;
+    margin: 5%;
+    margin-top: 0%;
+    margin-left: 0%;
+}
+
+#d1-2bg {
+    background-image: url(../img/dh.jpg);
+    background-size: 100%;
+    line-height: 2;
+    margin: 10%;
+    width: 80%;
+    height: 80%;
+    background-position: center;
+}
+
+#d1-3 {
+    float: left;
+    background-color: white;
+    background-image: url(../img/dh_2.jpg);
+    background-position: center;
+    background-size: contain;
+    background-repeat: no-repeat;
+    margin: 5%;
+    margin-top: 0%;
+    margin-left: 0%;
+}
+
+#d1-4 {
+    float: left;
+    background-image: url(../img/dh_3.jpg);
+    background-color: white;
+    background-position: center;
+    background-size: contain;
+    background-repeat: no-repeat;
+    margin: 5%;
+    margin-top: 0%;
+    margin-left: 0%;
+}
+
+#d2-1 {
+    float: left;
+    background: linear-gradient(to right, #d2ff52 0%, #566647 100%);
+    margin: 5%;
+    margin-top: 0%;
+}
+
+#d2-2 {
+    float: left;
+    background: linear-gradient(to bottom, rgba(240,183,161,1)0%, rgba(140,51,16,1)86%,
+    rgba(117,34,1,1)51%, rgba(191,110,78,1)100%);
+    margin: 5%;
+    margin-top: 0%;
+    margin-left: 0%;
+}
+
+#d2-3 {
+    float: left;
+    background: linear-gradient(to top, rgba(50,116,45,1)0%, rgba(239,239,210,1)100%);
+    margin: 5%;
+    margin-top: 0%;
+    margin-left: 0%;
+}
+
+#d2-4 {
+    float: left;
+    background: linear-gradient(to top, rgba(50,116,45,1)0%, rgba(239,239,210,0)100%);
+    margin: 5%;
+    margin-top: 0%;
+    margin-left: 0%;
+}
