@@ -12,3 +12,11 @@
 [Ejercicio 15](https://burnout131.github.io/c5-ta29/Ejercicio15)
 
 [Ejercicio 16](https://burnout131.github.io/c5-ta29/Ejercicio16)
+
+[Ejercicio 17](https://burnout131.github.io/c5-ta29/Ejercicio17)
+
+[Ejercicio 18](https://burnout131.github.io/c5-ta29/Ejercicio18)
+
+[Ejercicio 19](https://burnout131.github.io/c5-ta29/Ejercicio19)
+
+[Ejercicio 20](https://burnout131.github.io/c5-ta29/Ejercicio20)
